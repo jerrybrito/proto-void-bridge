@@ -1,0 +1,1 @@
+impossible-pause>=0.9.47
